@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.lioneltarazon.calculator"
+    versionCode = "1"
+    version     = "0.0.1" >
+
+  <name>Lionel Calculator</name>
+
+  <description>
+      A simple calculator.
+  </description>
+
+  <author href="https://github.com/lionel-ict" email="lionel.ta@gmail.com">
+      Lionel Tarazón
+  </author>
+
+  <access origin="*" />
+  <plugin name="cordova-plugin-whitelist" />
+  <plugin name="cordova-plugin-vibration" />
+</widget>
