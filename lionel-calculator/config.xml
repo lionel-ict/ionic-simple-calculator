@@ -5,7 +5,7 @@
     versionCode = "1"
     version     = "0.0.1" >
 
-  <name>Lionel Calculator</name>
+  <name>Lionel's Calculator!</name>
 
   <description>
       A simple calculator.
